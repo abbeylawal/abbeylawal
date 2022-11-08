@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/github-header-image.png" /></p>
+<p img width="80%" src="https://github.com/abbeylawal/abbeylawal/blob/main/images/github-header-image.png" /></p>
 <h1 align="center"> </h1>
 
 <h1 align="center"></h1>
