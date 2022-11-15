@@ -6,10 +6,18 @@
 <h3 align="center">A self-taught XOps, Data Science and Data Engineering Enthusiast </h3>
 
 
-## Learning Profile
- [DataCamp Profile](https://app.datacamp.com/profile/lawalabbeyzsmith)
- [Kaggle]
- [365DataScience]
+## Links to all my Learning Profile
+ [DataCamp Profile](https://app.datacamp.com/profile/lawalabbeyzsmith) </br>
+ [Kaggle]</br>
+ [365DataScience] </br>
+ 
+ 
+ ## My Certifications 
+  ### Cousera
+    #### IBM
+    
+    #### DeeepLearning.io
+    
 
 <!--
 **abbeylawal/abbeylawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
