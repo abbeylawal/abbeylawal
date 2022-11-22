@@ -8,8 +8,8 @@
 
 ## Links to all my Learning Profile
  - [DataCamp Profile](https://app.datacamp.com/profile/lawalabbeyzsmith) </br>
+ - [365DataScience](https://learn.365datascience.com/profile/) </br>
  - [Kaggle](https://www.kaggle.com/lawalabbey)</br>
- - [365DataScience] </br>
  
  
  ## My Certifications 
