@@ -9,12 +9,12 @@
 ## Links to all my Learning Profile
  - [DataCamp Profile](https://app.datacamp.com/profile/lawalabbeyzsmith) </br>
  - [365DataScience](https://learn.365datascience.com/profile/) </br>
- - [Cousera]
- - [Deeplearning.io]
+<!--  - [Cousera]
+ - [Deeplearning.io] -->
  - [Kaggle](https://www.kaggle.com/lawalabbey)</br>
- - [Microsoft_cloud]
+<!--  - [Microsoft_cloud]
  - [Google-cloud]
- - [AWS]
+ - [AWS] -->
  
  
  ## My Certifications 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <!-- [![site-badge](https://img.shields.io/badge/-00AEF0?style=flat-square&logo=cliqz&logoColor=white)](https://) -->
-[![gmail-badge](https://img.shields.io/badge/@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lawalabbeysmith@gmail.com)
+[![gmail-badge](https://img.shields.io/badge/lawalabbeysmith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lawalabbeysmith@gmail.com)
 <!-- [![twitter-badge](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://) -->
 
 
@@ -72,4 +72,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeylawal&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeylawal&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
