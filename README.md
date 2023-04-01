@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/abbeylawal/abbeylawal/issues)
 - 📫 How to reach me: see Contact Badges below
 
-**Contact:**
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <!-- [![site-badge](https://img.shields.io/badge/-00AEF0?style=flat-square&logo=cliqz&logoColor=white)](https://) -->
-[![gmail-badge](https://img.shields.io/badge/lawalabbeysmith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lawalabbeysmith@gmail.com)
+[![gmail-badge](https://img.shields.io/badge/@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lawalabbeysmith@gmail.com)
 <!-- [![twitter-badge](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://) -->
 
 
@@ -68,3 +68,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbeylawal&layout=compact)](https://github.com/abbeylawal/github-readme-stats)
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeylawal&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
