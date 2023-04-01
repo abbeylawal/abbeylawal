@@ -3,19 +3,24 @@
 <h1 align="center"> </h1>
 
 <h1 align="center"></h1>
-<h3 align="center">A self-taught XOps, Data Science and Data Engineering Enthusiast </h3>
+<h3 align="center">A self-taught Data Science, Data Engineering and XOps Enthusiast </h3>
 
 
 ## Links to all my Learning Profile
  - [DataCamp Profile](https://app.datacamp.com/profile/lawalabbeyzsmith) </br>
  - [365DataScience](https://learn.365datascience.com/profile/) </br>
+ - [Cousera]
+ - [Deeplearning.io]
  - [Kaggle](https://www.kaggle.com/lawalabbey)</br>
+ - [Microsoft_cloud]
+ - [Google-cloud]
+ - [AWS]
  
  
  ## My Certifications 
   ### Cousera
     - IBM
-    
+ 
     - DeeepLearning.io
     
 
@@ -27,7 +32,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working towards becoming a full-stack Data Scientist.
-- 🌱 I’m currently learning more about Artificial Intelligence, and some JavaScipt.
+- 🌱 I’m currently learning more about Machine Learning Opeartions / Artificial Intelligence and Devops.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with career boost.
 - 💬 Ask me about anything [here](https://github.com/abbeylawal/abbeylawal/issues)
@@ -41,8 +46,6 @@ Here are some ideas to get you started:
 
 
 **Stats:**
-
-
 
 <!-- [![AbbeyLawal: GitHub stats](https://github-readme-stats.vercel.app/api?username=abbeylawal)](https://github.com/abbeylawal/github-readme-stats) -->
 ![AbbeyLawal: GitHub stats](https://github-readme-stats.vercel.app/api?username=abbeylawal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical&hide=stars,contribs&count_private=true)
