@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p>
 <!-- [![site-badge](https://img.shields.io/badge/-00AEF0?style=flat-square&logo=cliqz&logoColor=white)](https://) -->
-[![gmail-badge](https://img.shields.io/badge/lawalabbeysmith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lawalabbeysmith@gmail.com)
+![gmail-badge](https://img.shields.io/badge/lawalabbeysmith@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lawalabbeysmith@gmail.com)
 <!-- [![twitter-badge](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://) -->
 </p>
 
