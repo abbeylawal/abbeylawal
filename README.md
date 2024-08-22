@@ -255,7 +255,8 @@ __Check out my GitHub repository:__
 </p>  
 
 ![Google Data Engineer Badge](https://images.credly.com/size/110x110/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png)
+![Google Machine Learning Engineer Badge](https://images.credly.com/size/110x110/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png)
 
-[Check out my Credly profile](https://www.credly.com/badges/142ad137-b6f8-4c6d-9c12-69b2dee615e5)
+[Check out my Credly profile](https://www.credly.com/users/abdullahi-lawal.797b22d0)
 
 ------
